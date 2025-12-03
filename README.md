@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @jessevandevelde
-- 👀 I’m interested in games
-- 🌱 I’m currently learning php and blender
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in games and I like going to concerts
+- 🌱 I’m currently learning angular and typescript
 - 📫 How to reach me jonesvandevelde@gmail.com
-- - 😄 Pronouns: he/him
 - ⚡ Fun fact: 2m tall
 
 <!---
